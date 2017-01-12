@@ -1,2 +1,2 @@
 # HelloWord
-Simple project
+Simple project: peace
